@@ -71,9 +71,6 @@ Right now, I'm leveling up my skills with the Google Cybersecurity Professional 
   <img src="https://github-readme-stats.vercel.app/api?username=rudrakadel&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" alt="My GitHub Stats">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudrakadel&theme=onedark&hide_border=false" alt="My Coding Streak">
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudrakadel&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Languages I Love">
